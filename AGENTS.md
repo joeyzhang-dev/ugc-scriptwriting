@@ -90,6 +90,10 @@ HOOK: <the hook>
 <body>
 ```
 
+When producing more than one option, label each `VARIATION 1`, `VARIATION 2`, and
+so on, on its own line above the block. Leave the block underneath unchanged so
+every variation still pastes into the webapp cleanly on its own.
+
 ## Learning — automatic, never invisible
 
 Joey's edits are the training signal. When he edits a draft, do not simply accept
