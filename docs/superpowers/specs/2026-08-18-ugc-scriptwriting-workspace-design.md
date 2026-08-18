@@ -225,6 +225,18 @@ shape survives the first commit.
 - No performance tracking; that is the researcher's job
 - No exhaustive format taxonomy up front; formats are added when written
 
+### Deferred, not rejected
+
+Semantic retrieval over the library — Supabase with pgvector, or any embedding
+index — is a plausible later addition. It is deferred rather than ruled out
+because it only starts paying for itself once the library is large enough that
+finding the right examples beats simply reading the folder. At fewer than ten
+scripts, reading the folder wins outright.
+
+Revisit when picking the 2–3 closest examples by hand stops being obvious. The
+markdown library stays the source of truth in that world; an index would be a
+cache built from it, never a replacement for it.
+
 ## Success criteria
 
 1. Joey pastes a script and gets a remix that sounds like his niche, without
