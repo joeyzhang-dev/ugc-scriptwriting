@@ -7,8 +7,8 @@
 > conflict, the examples are right and this file is stale — update it.
 >
 > Joey calls this: "4 things you should NOT be doing if you're a ___"
-> **Status: seeded for Christian only** (2 scripts). Self-improvement and
-> self-improvement (women) sections are still empty.
+> **Status: seeded for Christian only** (2 scripts, 1 confirmed winner).
+> Self-improvement and self-improvement (women) sections are still empty.
 
 ## What it is
 
@@ -82,16 +82,26 @@ and length were effectively identical, so item selection was the variable:
 | dating someone who doesn't love God | worshiping other idols |
 | only talking to God when you need something | using the Lord's name in vain |
 
-The winner's items are **behaviors people actively do and openly defend**. The
-weaker set leans on internal or relational habits that are easier to nod along
-with. Every winning item is also a single observable action rather than a
-disposition.
+The winner's items are **behaviors the large majority of the audience has actually
+done**. Cussing, going to a bar or a concert, putting a partner or money above
+God, saying the Lord's name carelessly — these are close to universal. Gossip,
+consuming the wrong content, dating a non-believer, and praying inconsistently
+are narrower or more abstract by comparison.
+
+**Select items by how many viewers will recognize themselves, not by how much
+debate the item will start.** Joey's own read on why it won: the verbiage, the
+topics it covered, the simplicity, and the relatability to the majority of
+viewers.
+
+Simplicity is part of the same effect — the winning items are single, plain,
+instantly-understood actions. Nothing requires a setup to explain.
 
 <!--
-HYPOTHESIS, not confirmed by Joey: the winner's items provoke disagreement (is
-cussing actually a sin? are concerts?), disagreement drives comments, comments
-drive distribution. Two data points is not proof. One more script in this format
-with known performance would test it. Do not treat as a rule until confirmed.
+REJECTED THEORY, do not re-derive it: an earlier reading of this pair guessed the
+winner did better because its items were more arguable (is cussing really a sin?
+are concerts?), driving debate in the comments. Joey corrected this — the
+mechanism is breadth of recognition, not controversy. Two items can both be
+"debatable" while only one is near-universal; optimize for the second.
 -->
 
 ### Self-improvement

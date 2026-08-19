@@ -49,7 +49,5 @@ Delivery differences worth noting (script vs what was actually said):
 - Delivered adds "Get in your word." after item two
 - Delivered says "just consuming Christian content"; written says "consuming content"
 
-UNCONFIRMED: filed on the assumption that the written script and the transcript
-are the same video. Joey supplied them as separate documents. If they were two
-separate posts testing different hooks, split this into two entries.
+CONFIRMED by Joey: the written script and the transcript are the same video.
 -->

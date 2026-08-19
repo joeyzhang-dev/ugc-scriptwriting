@@ -24,6 +24,9 @@ self-improvement (women) niche.
 
 **We say:**
 
+- **Simple, plain language — this is load-bearing, not incidental.** Joey names
+  "the verbage" and "the simplicity" among the reasons the 200k+ script beat its
+  peer. Every idea should land on first hearing, with no setup required.
 - Plain spoken English with contractions — "you can't", "you'll", "doesn't"
 - Second person, always aimed at the viewer — "you", never "we" or "one"
 - Short declarative sentences; fragments are used deliberately for rhythm

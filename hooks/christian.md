@@ -24,13 +24,12 @@ Observations across the three:
 
 ## On-screen text hooks
 
-- `4 things you should not be doing if you're a "Christian"` — format: Things not to do — source: mine — 20-30k views
+- `4 things you should not be doing if you're a "Christian"` — format: Things not to do — source: mine — used on **both** the 200k+ and the 20-30k script
 
 The scare quotes around "Christian" carry the challenge visually. The spoken hook
 delivers the same challenge with the words "claim to be" instead.
 
-<!--
-No text hook was supplied for the 200k+ script. Worth recovering — if its text
-hook also differed from its spoken hook, that pairing is a repeatable technique
-rather than a one-off.
--->
+**Both scripts shipped the same text hook**, which rules the text hook out as the
+reason one hit 200k+ and the other 20-30k. Combined with identical structure,
+CTA, and length, that isolates item selection as the variable — see the Christian
+section of `formats/things-not-to-do.md`.
