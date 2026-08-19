@@ -85,10 +85,16 @@ Mirrors the doc fields in Joey's webapp so output pastes in without reformatting
 INSPO VIDEO: <url>
 DEMO TO USE: <what to show on screen>
 SONG(S) TO USE: <track>
-HOOK: <the hook>
+TEXT HOOK: <the on-screen text>
+HOOK: <the spoken hook>
 
 <body>
 ```
+
+`TEXT HOOK` and `HOOK` are different lines and are written separately. The
+on-screen text can carry things speech can't — the seeded Christian script uses
+scare quotes around "Christian" to signal a challenge before a word is spoken.
+Never duplicate one into the other.
 
 When producing more than one option, label each `VARIATION 1`, `VARIATION 2`, and
 so on, on its own line above the block. Leave the block underneath unchanged so
@@ -126,9 +132,19 @@ file — git is the changelog.
 
 ## Current state
 
-Niche, format, and hook files are scaffolded but **unseeded**. The first working
-session is a seeding pass: Joey pastes his existing scripts, each becomes a
-`library/` entry, and v1 of the voice rules is derived from that real material.
+Seeding is in progress.
 
-Until seeding happens, rely on what Joey says in-session — and write it down
-afterward.
+| Niche | State |
+|---|---|
+| Christian | **v1 seeded** from 2 real scripts, both `Things not to do`. Voice spec, hook bank, and the format's Christian section are populated. |
+| Self-improvement | unseeded |
+| Self-improvement (women) | unseeded |
+
+Formats other than `Things not to do` are still unseeded skeletons.
+
+For unseeded niches and formats, rely on what Joey says in-session — and write it
+down afterward. Do not fill an empty section by generalizing from the Christian
+material; the niches differ in voice by design.
+
+Sections marked `UNCONFIRMED` or `HYPOTHESIS` in any file are inferences awaiting
+Joey's confirmation. Do not promote them to rules until he confirms them.
