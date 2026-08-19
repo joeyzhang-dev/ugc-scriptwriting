@@ -20,6 +20,16 @@ self-improvement (women) niche.
 
 <!-- UNCONFIRMED: audience skew inferred from the CTA domain, not stated by Joey. -->
 
+## Brand partnership
+
+Much of this niche's output is **sponsored content for Folk**, a daily scripture
+reminder app reached through `openyourbiblegirl.com`.
+
+The governing standard: **the script must feel organic, not ad-heavy.** The CTA
+earns its place by being thematically continuous with the list that precedes it —
+the items establish a problem (inconsistency in scripture) and Folk is the answer
+to that specific problem. A CTA that could be pasted onto any script is a failed
+CTA.
 ## Diction & vocabulary
 
 **We say:**
@@ -42,7 +52,30 @@ self-improvement (women) niche.
 
 **We never say:**
 
-<!-- Fills from real edits. Nothing observed yet — do not invent entries here. -->
+- **Vague moral generalizations.** "Don't be worldly", "stop living in sin", and
+  similar abstractions are the specific failure mode to avoid. Name the actual
+  behavior — "getting drunk and calling it just having fun" — instead.
+
+<!--
+Otherwise fills from real edits. Do not invent entries here; only phrasing Joey
+actually removes belongs in this list.
+-->
+
+## Scripture handling
+
+**Citation accuracy is non-negotiable.** Joey catches misattributed or inaccurate
+references immediately, and in this niche a wrong verse is the most damaging
+error possible.
+
+- Verify book, chapter, and verse against the actual text before writing it
+- Verify that the paraphrase reflects what the verse actually says
+- If a reference cannot be confirmed, say so rather than guessing
+- Auto-transcripts routinely garble references — never lift a citation from a
+  transcript without checking it. See the annotated errors in both
+  `library/christian/` entries.
+
+Verses are spoken naturally by book, chapter, and verse, then paraphrased — never
+read out formally or quoted at length.
 
 ## Tone & posture
 
@@ -76,10 +109,23 @@ Observed in both scripts, in this order:
 The keyword varies between scripts ("BIBLE", "Folk"), so it is a per-script
 choice rather than a fixed value.
 
+**Hard rules:**
+
+- **Comment-keyword only. Never stack destinations.** One ask, one keyword. A CTA
+  that sends viewers to a link *and* a bio *and* a comment is a failed CTA.
+- **Anchor the bridge to the script's thesis.** The handoff comes from thematic
+  alignment with the list, not from a fixed position in the runtime.
+- **Mid-roll placement, when used, attaches to the thesis or an open-loop tease** —
+  never dropped in at an arbitrary point.
+
 ## Banned phrases
 
+Exact strings that must never appear, quoted verbatim. Broader stylistic
+prohibitions (categories, patterns, registers) belong under **We never say** in
+Diction & vocabulary above — this section is only for literal phrasings.
+
 <!--
-Fills from real edits. Nothing observed yet.
+Empty. Fills from real edits.
 
 Do not populate this from general assumptions about AI-writing tells or churchy
 jargon — only from phrasing Joey actually removes.

@@ -76,6 +76,24 @@ but two others come up:
 All three load context the same way. The difference is only where the session
 starts.
 
+**How Joey iterates.** He works label-first and in rounds: he supplies a finished
+script, a draft, or structural direction; you identify CTA placement, write the
+bridge copy, and reassemble the *full* script; he selects an option or redirects;
+you refine. List points get a short label first, then the beat-level build-out
+underneath. Expect several rounds on individual points before one lands — that is
+the process working, not a failure.
+
+## Writing discipline
+
+- **Match the reference script's length.** When Joey supplies a reference or a
+  draft, the output tracks its length. Running long is the single most common
+  complaint — he pushes back on it consistently. More words is not more value.
+- **Flag risks proactively.** Call out platform or content risk, logical gaps,
+  factual problems, and typos without being asked. Joey catches these himself and
+  expects them caught first.
+- **Reassemble the whole script.** When changing part of a script, return the
+  complete thing, not just the changed fragment.
+
 ## Output contract
 
 Mirrors the doc fields in Joey's webapp so output pastes in without reformatting.

@@ -23,8 +23,10 @@ implicates the viewer directly instead of offering neutral advice.
    the count and the condition in one sentence: *"There are four things you
    should not be doing if you claim to be a Christian."*
 2. **Item block, repeated once per item.** Each block runs:
-   - **Label** — "Number [ordinal] is [behavior]." The behavior is a concrete
-     action, not an abstract quality.
+   - **Label** — "Number [ordinal] is [behavior]." Joey's convention is a
+     **1-4 word label**, then the beat-level build-out underneath it. Observed
+     labels: "gossip", "cussing", "attending sinful places", "worshiping other
+     idols", "using the Lord's name in vain".
    - **Authority anchor** — the scripture reference, spoken naturally.
    - **The content of the verse** — paraphrased, not read formally.
    - **Application line** — a sharp reframe aimed at the viewer, often closing
@@ -50,7 +52,9 @@ pace that is roughly 60-75 seconds.
 - "Here are four things you should not be doing if you claim to be a Christian." — written version of the 20-30k performer
 - "Here are four things you should not be doing if you're a Christian." — as actually delivered on the 20-30k performer
 
-The count has been four in every seeded example.
+The count is usually four, and was four in both seeded scripts. It is not fixed —
+Joey has also run three ("three things to run from"). Treat the count as a choice
+per script, not a property of the format.
 
 The on-screen text hook differs from the spoken hook — see `hooks/christian.md`.
 
@@ -82,26 +86,38 @@ and length were effectively identical, so item selection was the variable:
 | dating someone who doesn't love God | worshiping other idols |
 | only talking to God when you need something | using the Lord's name in vain |
 
-The winner's items are **behaviors the large majority of the audience has actually
-done**. Cussing, going to a bar or a concert, putting a partner or money above
-God, saying the Lord's name carelessly — these are close to universal. Gossip,
-consuming the wrong content, dating a non-believer, and praying inconsistently
-are narrower or more abstract by comparison.
+Two criteria govern item selection.
 
-**Select items by how many viewers will recognize themselves, not by how much
-debate the item will start.** Joey's own read on why it won: the verbiage, the
-topics it covered, the simplicity, and the relatability to the majority of
-viewers.
+**1. Reach — how many viewers recognize themselves.** The winner's items are
+behaviors the large majority of the audience has actually done. Cussing, going to
+a bar or a concert, putting a partner or money above God, saying the Lord's name
+carelessly — these are close to universal. Gossip, consuming the wrong content,
+dating a non-believer, and praying inconsistently are narrower or more abstract
+by comparison. Joey's read on why it won: the verbiage, the topics it covered,
+the simplicity, and the relatability to the majority of viewers.
 
-Simplicity is part of the same effect — the winning items are single, plain,
-instantly-understood actions. Nothing requires a setup to explain.
+**2. Specificity — a concrete behavior, never a moral generalization.** "Getting
+drunk and calling it just having fun" beats "don't be worldly." The 1-4 word
+label stays short; the specificity lives in the build-out underneath it.
+Simplicity works with this, not against it — the winning items are single, plain,
+instantly-understood actions that need no setup to explain.
+
+**On controversy.** Specific items provoke disagreement, and that is accepted —
+Joey's standing position is that controversy-driving specificity is a feature,
+not a risk. But controversy is a **byproduct, not the objective**. Selecting for
+maximum debate yields edgy, narrow items; selecting for maximum recognition
+yields items that happen to get debated. Optimize for recognition and let the
+controversy follow. Never soften a specific item to avoid the argument.
 
 <!--
-REJECTED THEORY, do not re-derive it: an earlier reading of this pair guessed the
-winner did better because its items were more arguable (is cussing really a sin?
-are concerts?), driving debate in the comments. Joey corrected this — the
-mechanism is breadth of recognition, not controversy. Two items can both be
-"debatable" while only one is near-universal; optimize for the second.
+REJECTED MECHANISM, do not re-derive it: an earlier reading of this pair guessed
+the winner did better *because* its items were more arguable — debate drives
+comments, comments drive distribution. Joey corrected this: the mechanism is
+breadth of recognition, not controversy.
+
+The distinction is narrow but it changes what gets written. Both readings tolerate
+controversy; only the rejected one chases it. Two items can both be debatable
+while only one is near-universal — pick the second.
 -->
 
 ### Self-improvement
